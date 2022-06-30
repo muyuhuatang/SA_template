@@ -1,7 +1,7 @@
 # Template Codes for Senetiment Analysis Tasks
 
 
-Recently, after attending the SICSS-2022, Singapore event, I noticed that many researchers from Social Science field are becoming more and more interested in applying the most welcomed and state-of-the-art AI models to help them dig out more insights from the Natural Lanugage Corpus.
+Recently, after attending the SICSS-2022, Singapore event, I noticed that many researchers from Social Science field are becoming more and more interested in applying the most welcomed and state-of-the-art AI models to help them dig out more insights from the Natural Language Corpus.
 
 However, the researchers from Social Science clusters may find difficult about how to apply and use the Transformer models like BERT from 0 to 1. 
 Thus, for the convenience of the people who in need, I create the repo to make the most simple but very elastic illustration of how to apply the Transformer models like BERT to apply simple sentiment analysis through the most simple method :)
